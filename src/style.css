@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;700;800&display=swap');
+
+body {
+}
+
 /*
 ! tailwindcss v3.1.8 | MIT License | https://tailwindcss.com
 */
@@ -410,7 +415,7 @@ video {
   height: auto;
 }
 
-*, ::before, ::after {
+*, ::before, ::after{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -457,7 +462,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-::-webkit-backdrop {
+::-webkit-backdrop{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -504,7 +509,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-::backdrop {
+::backdrop{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -549,89 +554,4 @@ video {
   --tw-backdrop-opacity:  ;
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
-}
-
-/* be-vietnam-pro-300 - latin */
-
-@font-face {
-  font-family: 'Be Vietnam Pro';
-
-  font-style: normal;
-
-  font-weight: 300;
-
-  src: local(''),
-    url('../fonts/be-vietnam-pro-v10-latin-300.woff2') format('woff2'),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url('../fonts/be-vietnam-pro-v10-latin-300.woff') format('woff');
-
-  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* be-vietnam-pro-regular - latin */
-
-@font-face {
-  font-family: 'Be Vietnam Pro';
-
-  font-style: normal;
-
-  font-weight: 400;
-
-  src: local(''),
-    url('../fonts/be-vietnam-pro-v10-latin-regular.woff2') format('woff2'),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url('../fonts/be-vietnam-pro-v10-latin-regular.woff') format('woff');
-
-  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* be-vietnam-pro-500 - latin */
-
-@font-face {
-  font-family: 'Be Vietnam Pro';
-
-  font-style: normal;
-
-  font-weight: 500;
-
-  src: local(''),
-    url('../fonts/be-vietnam-pro-v10-latin-500.woff2') format('woff2'),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url('../fonts/be-vietnam-pro-v10-latin-500.woff') format('woff');
-
-  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* be-vietnam-pro-600 - latin */
-
-@font-face {
-  font-family: 'Be Vietnam Pro';
-
-  font-style: normal;
-
-  font-weight: 600;
-
-  src: local(''),
-    url('../fonts/be-vietnam-pro-v10-latin-600.woff2') format('woff2'),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url('../fonts/be-vietnam-pro-v10-latin-600.woff') format('woff');
-
-  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* be-vietnam-pro-700 - latin */
-
-@font-face {
-  font-family: 'Be Vietnam Pro';
-
-  font-style: normal;
-
-  font-weight: 700;
-
-  src: local(''),
-    url('../fonts/be-vietnam-pro-v10-latin-700.woff2') format('woff2'),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-    url('../fonts/be-vietnam-pro-v10-latin-700.woff') format('woff');
-
-  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
