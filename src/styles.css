@@ -7,7 +7,7 @@ html {
   height: 100%;
 }
 body {
-  background-image: url("/images/bg-pushti.svg"), url("/images/bg-pushti.svg");
+  background-image: url("../images/bg-pushti.svg"), url("../images/bg-pushti.svg");
   background-repeat: no-repeat;
 
   background-position: calc(50% + 400px) -55px, calc(50% - 671px) 1247px;
@@ -130,7 +130,7 @@ body {
   color: #fff;
 }
 .end {
-  background-image: url("/images/bg-oq.svg");
+  background-image: url("../images/bg-oq.svg");
   background-repeat: no-repeat;
   background-position: calc(50% - 286px) -35px;
 }

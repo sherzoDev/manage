@@ -867,7 +867,7 @@ html {
 }
 
 body {
-  background-image: url("/images/bg-pink.svg"), url("/images/bg-pink.svg");
+  background-image: url("../images/bg-pink.svg"), url("../images/bg-pink.svg");
   background-repeat: no-repeat;
   background-position: calc(50% + 400px) -55px, calc(50% - 671px) 1247px;
 }
@@ -1028,7 +1028,7 @@ body {
 }
 
 .end {
-  background-image: url("/images/bg-oq.svg");
+  background-image: url("../images/bg-oq.svg");
   background-repeat: no-repeat;
   background-position: calc(50% - 286px) -35px;
 }
